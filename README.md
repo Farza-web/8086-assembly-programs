@@ -47,7 +47,7 @@ This repository contains a collection of basic 8086 assembly language programs d
 
 ## 👨‍🎓 Author
 
-**Your Name:** Farzana Akter
+** Name:** Farzana Akter
 
 **Department:** Computer Science & Engineering
 
